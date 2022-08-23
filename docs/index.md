@@ -5,3 +5,5 @@ Though officially HLT, this course is primarily an NLP course, a rapidly growing
 
 
 ### Portfolio Contents
+
+1. [Overview of NLP](https://github.com/adityaguin/CS-4395/blob/main/Overview%20of%20NLP) -- My views on the NLP field, alongside why I want to study it
