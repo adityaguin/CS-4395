@@ -18,6 +18,6 @@ Many methods already exist in libraries to process and modify text. Methods are 
 #### Weakness: 
 Python is slower compared to languages such as C, C++. 
 
-## What I learned
+### What I learned
 
 I learned of different python methods such as .capitalize() and .lower(). I also learned of different libraries such as pickle, csv, and regex. Regex took a bit of time to understand, but it was very useful for formatting. Data structures including dictionaries, lists, sets, list comprehension was also interesting to learn. 
