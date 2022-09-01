@@ -6,5 +6,5 @@ Though officially HLT, this course is primarily an NLP course, a rapidly growing
 
 ### Portfolio Contents
 
-1. [Overview of NLP](https://github.com/adityaguin/CS-4395/blob/main/Overview%20of%20NLP) -- My views on the NLP field, alongside why I want to study it
+1. [Overview of NLP](https://github.com/adityaguin/CS-4395/tree/main/docs/Portfolio%20Assignment%200) -- My views on the NLP field, alongside why I want to study it
 2. [Text Processing with Python](https://github.com/adityaguin/CS-4395/tree/main/docs/Portfolio%20Assignment%201) -- Learning basic text processing in Python
