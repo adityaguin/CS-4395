@@ -60,7 +60,9 @@ def preprocess_raw_text():
     # 3f. Return number of tokens and nouns
     return len(preprocessed_tokens), len(lemmas_that_are_only_nouns), fifty_common_nouns
 
-
+# Word bank is the fifty most common nouns. Word is chosen, and user has attempts to guess letter
+# If points < 0, game ends. If user enters !, game ends.
+# Points persist throughout multiple rounds of the game
 def guessing_game(word_list):
     points = 5
     word_chosen = random.choice(word_list)
@@ -82,6 +84,8 @@ def guessing_game(word_list):
 
         epoint = False
 
+    # Error checking. While user enters nonalpha character that isn't !, and also ensure user enters
+        # only one character at at time
         while len(letter_guessed) != 1 or letter_guessed in guessed_letters or not letter_guessed.isalpha():
             while len(letter_guessed) != 1:
                 letter_guessed = input(f'{letter_guessed} is not length 1! Guess another letter: ')
@@ -99,7 +103,7 @@ def guessing_game(word_list):
 
         if epoint:
             break
-
+        letter_guessed = letter_guessed.lower()
         guessed_letters.append(letter_guessed)
         if letter_guessed in word_chosen:
             points += 1
