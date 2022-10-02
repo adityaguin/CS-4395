@@ -11,3 +11,4 @@ Though officially HLT, this course is primarily an NLP course, a rapidly growing
 3. [Exploring NLTK](https://github.com/adityaguin/CS-4395/tree/main/docs/Portfolio%20Assignment%202) -- Exploring the NLTK API.
 4. [Guessing game!](https://github.com/adityaguin/CS-4395/tree/main/docs/Portfolio%20Assignment%3B%20Chapter%205) -- Exploring lexical diversity, part of speech tagging, lemmatization, and implementing a fun guessing game!
 5. [Word Net](https://github.com/adityaguin/CS-4395/tree/main/docs/Portfolio%20Assignment%3B%20Chapter%207) -- Exploring Wordnet, its hierarchies, lexical analysis, sentwordnet, collocations, mutual information, and more! 
+6. [NGrams](https://github.com/adityaguin/CS-4395/tree/main/docs/Portfolio%20Chapter%208%3B%20NGRAMS) -- Exploring unigrams, bigrams, and creating language model for three languages (English, French, Italian)!
