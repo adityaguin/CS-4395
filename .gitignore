@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/docs/Portfolio Chapter 8; NGRAMS/LangId.train.English.bigrams.p
+/docs/Portfolio Chapter 8; NGRAMS/LangId.train.English.unigrams.p
+/docs/Portfolio Chapter 8; NGRAMS/LangId.train.French.bigrams.p
+/docs/Portfolio Chapter 8; NGRAMS/LangId.train.French.unigrams.p
+/docs/Portfolio Chapter 8; NGRAMS/LangId.train.Italian.bigrams.p
+/docs/Portfolio Chapter 8; NGRAMS/LangId.train.Italian.unigrams.p
